@@ -145,7 +145,7 @@ strong {
 }
 
 .section-title-wrap {
-  background: var(--secondary-color);
+  background: #1B5C66;
   border-radius: var(--border-radius-small);
   padding: 10px 30px;
 }
